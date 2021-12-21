@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'supplier',
-    'core'
+    'core',
+    'merchant'
 ]
 
 AUTH_USER_MODEL = 'core.User'
